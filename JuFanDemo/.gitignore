@@ -10,10 +10,4 @@
 .externalNativeBuild
 **build
 Apk*
-app/src/main/java/com/jufan/demo/adapter/
-app/src/main/java/com/jufan/demo/bean/
-app/src/main/java/com/jufan/demo/db/
-app/src/main/java/com/jufan/demo/encryption/
-app/src/main/java/com/jufan/demo/fragment/
-app/src/main/java/com/jufan/demo/preper/
-app/src/main/java/com/jufan/demo/receiver/
+
